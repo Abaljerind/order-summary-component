@@ -1,4 +1,10 @@
+html,
 body {
   font-family: "Red Hat Display", sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+section {
   height: 100%;
 }
