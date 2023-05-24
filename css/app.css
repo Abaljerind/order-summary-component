@@ -17,3 +17,30 @@ section .card .card-body h5 {
 section .card .card-body p.card-text {
   color: hsl(224, 23%, 55%);
 }
+
+section .card .card-body .plans {
+  background-color: hsl(225, 100%, 98%);
+}
+
+section .card .card-body .plans svg {
+  margin: 20px;
+}
+
+section .card .card-body .plans .flex-column .annual-plan {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-weight: 700;
+}
+
+section .card .card-body .plans .flex-column .price {
+  color: hsl(224, 23%, 55%);
+}
+
+section .card .card-body .plans .flex-row {
+  margin-top: 30px;
+  margin-left: 75px;
+}
+
+section .card .card-body .plans .flex-row a.link {
+  color: hsl(245, 75%, 52%);
+}
