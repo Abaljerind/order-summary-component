@@ -8,3 +8,12 @@ body {
 section {
   height: 100%;
 }
+
+section .card .card-body h5 {
+  font-weight: 700;
+  color: hsl(223, 47%, 23%);
+}
+
+section .card .card-body p.card-text {
+  color: hsl(224, 23%, 55%);
+}
