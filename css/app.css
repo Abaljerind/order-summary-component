@@ -5,10 +5,12 @@ body {
   margin: 0;
 }
 
+/* section */
 section {
   height: 100%;
 }
 
+/* card-body */
 section .card .card-body h5 {
   font-weight: 700;
   color: hsl(223, 47%, 23%);
@@ -18,6 +20,7 @@ section .card .card-body p.card-text {
   color: hsl(224, 23%, 55%);
 }
 
+/* plans in card-body */
 section .card .card-body .plans {
   background-color: hsl(225, 100%, 98%);
 }
@@ -46,6 +49,7 @@ section .card .card-body .plans .flex-row a.link {
   color: hsl(245, 75%, 52%);
 }
 
+/* buttons */
 section .buttons .payment {
   background-color: hsl(245, 75%, 52%);
   color: white;
